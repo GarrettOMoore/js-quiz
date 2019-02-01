@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+p {
+    font-size: 50px;
+}
+
+label {
+    height: 30px; 
+    width: 30px;
+}
+
+div {
+    font-size: 30px;
+}
+
+form {
+    font-size: 30px;
+}
